@@ -61,8 +61,8 @@ Please address comments and questions concerning this book to the publisher:
 ++++
 <ul class="simplelist">
   <li>O’Reilly Media, Inc.</li>
-  <li>1005 Gravenstein Highway North</li>
-  <li>Sebastopol, CA 95472</li>
+  <li>141 Stony Circle, Suite 195</li>
+  <li>Santa Rosa, CA 95401</li>
   <li>800-889-8969 (in the United States or Canada)</li>
   <li>707-827-7019 (international or local)</li>
   <li>707-829-0104 (fax)</li>
@@ -71,7 +71,7 @@ Please address comments and questions concerning this book to the publisher:
 </ul>
 ++++
 
-We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at link:$$https://www.oreilly.com/catalog/catalog_page$$[].
+We have a web page for this book, where we list errata and any additional information. You can access this page at link:$$https://www.oreilly.com/catalog/catalog_page$$[].
 
 ++++
 <!--Don't forget to update the link above.-->
